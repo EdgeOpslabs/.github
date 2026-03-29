@@ -16,7 +16,7 @@
 	<a href="https://edgeopslabs.com">
 		<img alt="Website" src="https://img.shields.io/badge/Website-edgeopslabs.com-3E4C59?style=flat-square&logo=google-chrome&logoColor=white" />
 	</a>
-	<a href="mailto:contact@edgeopslabs.com">
+	<a href="mailto:edgeopslabs.community@gmail.com">
 		<img alt="Email" src="https://img.shields.io/badge/Email-contact%40edgeopslabs.com-2D3748?style=flat-square&logo=gmail&logoColor=white" />
 	</a>
 </p>
