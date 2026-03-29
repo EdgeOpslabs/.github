@@ -1,6 +1,6 @@
 # EdgeOps Labs
 
-![EdgeOps Labs Banner](assets/edgeopslabs-banner.svg)
+![EdgeOps Labs Banner](../assets/edgeopslabs-banner.svg)
 
 <p align="center">
 	<strong>Advancing Digital Infrastructure &amp; Secure Data Solutions.</strong>
@@ -89,7 +89,7 @@ If you are building secure digital infrastructure for defense, government, or ma
 - **Partners:** Reach out for strategic delivery, product integration, and mission-aligned innovation.
 - **Follow on LinkedIn:** [EdgeOps Labs](https://www.linkedin.com/company/edgeops-labs)
 - **Join Discord Community:** [discord.gg/spXsHKvZ7P](https://discord.gg/spXsHKvZ7P)
-- **Contact:** [contact@edgeopslabs.com](mailto:edgeopslabs.community@gmail.com)
+- **Contact:** [contact@edgeopslabs.com](mailto:contact@edgeopslabs.com)
 
 ---
 

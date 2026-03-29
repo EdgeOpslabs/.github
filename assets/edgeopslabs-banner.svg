@@ -1,0 +1,39 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C2D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B3F5F" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6B89B8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2B3F5F" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#23344D" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.35"/>
+
+  <g opacity="0.45">
+    <circle cx="1020" cy="140" r="190" stroke="#33527A" stroke-width="1.5"/>
+    <circle cx="1020" cy="140" r="130" stroke="#33527A" stroke-width="1.5"/>
+    <circle cx="1020" cy="140" r="70" stroke="#33527A" stroke-width="1.5"/>
+  </g>
+
+  <path d="M0 240C150 180 270 180 420 240C570 300 690 300 840 240C990 180 1110 180 1200 215" stroke="url(#line)" stroke-width="2"/>
+  <path d="M0 220C180 165 300 165 450 220C600 275 720 275 870 220C1020 165 1140 165 1200 188" stroke="url(#line)" stroke-width="1.5" opacity="0.8"/>
+
+  <g transform="translate(82,70)">
+    <rect x="0" y="0" width="94" height="94" rx="14" fill="#18283D" stroke="#4D6A95" stroke-width="2"/>
+    <path d="M22 47L42 67L72 27" stroke="#97B4DE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="47" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8EA8CE">LOGO</text>
+  </g>
+
+  <text x="210" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#E6EDF7">EdgeOps Labs</text>
+  <text x="212" y="171" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#AFC2DF">Advancing Digital Infrastructure &amp; Secure Data Solutions</text>
+
+  <rect x="210" y="190" width="530" height="2" fill="#4E678E" opacity="0.7"/>
+</svg>
