@@ -17,7 +17,7 @@
 		<img alt="Website" src="https://img.shields.io/badge/Website-edgeopslabs.com-3E4C59?style=flat-square&logo=google-chrome&logoColor=white" />
 	</a>
 	<a href="mailto:edgeopslabs.community@gmail.com">
-		<img alt="Email" src="https://img.shields.io/badge/Email-contact%40edgeopslabs.com-2D3748?style=flat-square&logo=gmail&logoColor=white" />
+		<img alt="Email" src="https://img.shields.io/badge/Email-edgeopslabs.community%40gmail.com-2D3748?style=flat-square&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
@@ -89,7 +89,7 @@ If you are building secure digital infrastructure for defense, government, or ma
 - **Partners:** Reach out for strategic delivery, product integration, and mission-aligned innovation.
 - **Follow on LinkedIn:** [EdgeOps Labs](https://www.linkedin.com/company/edgeops-labs)
 - **Join Discord Community:** [discord.gg/spXsHKvZ7P](https://discord.gg/spXsHKvZ7P)
-- **Contact:** [contact@edgeopslabs.com](mailto:edgeopslabs.community@gmail.com)
+- **Contact:** [edgeopslabs.community@gmail.com](mailto:edgeopslabs.community@gmail.com)
 
 ---
 
